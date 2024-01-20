@@ -1,0 +1,11 @@
+id;type;owner_id
+1;POST;1
+2;NODE;2
+3;NODE;1
+4;POST;2
+5;USER;1
+6;POST;2
+7;NODE;1
+8;NODE;1
+9;POST;2
+10;NODE;1
